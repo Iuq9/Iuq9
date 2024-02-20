@@ -1,4 +1,3 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="SSC-1",SSC1 HD
-https://www.ipslow.com/tv/canal.php?id=ssc_news
-#KODIPROP
+#EXTINF-1#EXTM3U
+#EXTINF:-1 tvg-id="SSC",SSC1HD (1080p)
+https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/
