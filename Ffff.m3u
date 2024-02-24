@@ -1,0 +1,20 @@
+#EXTINF:-1,alekhbariya,
+tvg-logo="https://play-lh.googleusercontent.com/ZF91fw6FbJuKcM18t-aWZwc4B5zSbD_uYTbY30bLk-V3AxnV7YbOsSsRLQYSzhh90fow" 
+group-title="sauditv"
+https://al-ekhbaria-prod-dub.shahid.net/out/v1/d443f3203b444032896e3233cb6eaa84/index.m3u8
+#EXTINF:-1,Saudi ch for Sunnah HD,
+tvg-group="sauditv
+tvg-logo="http://www.sba.sa/assets/uploads/2018/04/Mask-Group-55@2x.png"
+https://www.youtube.com/live/-mr6TD6YxR8?si=OG_l2ZjNusECbuiV
+#EXTINF:-1,Saudi ch for Quran HD,
+group-title="sauditv
+tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86_%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85.svg"
+https://www.youtube.com/live/-mr6TD6YxR8?si=OG_l2ZjNusECbuiV
+#EXTINF:-1,AlSaudiya,
+tvg-logo="https://imgur.com/GRQTndk?r"
+group-title="saudi tv"
+https://shls-masr2-ak.akamaized.net/out/v1/5ae66b453b62403199811ab78da9982a/index.m3u8
+#EXTINF:-1,SSC1,
+tvg-logo="" 
+group-title="sauditv"
+http://z08240224.bernadette-matthews.shop/x6/view_13.m3u8?t=uu2g5PBmOBHxTpE8bwt-Hw&x=1708844782&n=false
