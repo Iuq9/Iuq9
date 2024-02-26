@@ -1,5 +1,21 @@
 #EXTM3U
-#EXTINF-1,SSC1
+#EXTINF:-1,SSC1
+
 tvg-logo="https://hotimg.com/Picsart-24-02-17-08-54-17-580.NzXNq"
 group-title="SSCSports"
-http://z08240224.bernadette-matthews.shop/x6/view_13.m3u8?t=uu2g5PBmOBHxTpE8bwt-Hw&x=1708844782&n=false
+https://bddw13.yacinelivetv.com/live/69854211/index.m3u8?t=ntSoRtWgAVsOOjYEQVng7g&e=1708910908
+
+#EXTINF:-1,SSC2
+
+tvg-logo=""
+group-title="SSCSports"
+http://z08240224.bernadette-matthews.shop/x6/view_14.m3u8?t=uu2g5PBmOBHxTpE8bwt-Hw&x=1708844782&n=false
+
+#EXTINF:-1,ROTANA KHALIJIAH HD
+group-title="Rotana"
+tvg-logo="https://i.imgur.com/6HMluzv.png"
+
+
+#EXTINF:-1,bein sports 1
+tvg-logo=""
+group-title="bein sports"
